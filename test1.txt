@@ -1,1 +1,2 @@
 this is first testing
+Creating a new branch is quick & simple.
